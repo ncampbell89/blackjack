@@ -1,9 +1,3 @@
-This is day 1 of the Blackjack application
+Blackjack
 
-Links:
-
-https://www.youtube.com/watch?v=8aGhZQkoFbQ
-
-https://github.com/getify/You-Dont-Know-JS
-
-this & Object Prototypes Chapters 1-3
+This was a class project to practice build a game application using JavaScript OOP.
